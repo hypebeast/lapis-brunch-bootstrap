@@ -28,7 +28,8 @@ module.exports = {
       }
     },
     plugins: {
-      cssmin: {}
+      cssmin: {},
+      uglify: {}
     }
   }
 };

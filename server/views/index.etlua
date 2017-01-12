@@ -1,2 +1,2 @@
 <h1>Lapis + Brunch + Bootstrap</h1>
-<p class="lead">Application built with <a href="http://leafo.net/lapis/">Lapis</a>, <a href="http://brunch.io">Brunch</a> and <a href="http://getbootstrap.com/">Bootstrap</a> running with <a href="http://leafo.net/lapis/reference.html.">Docker</a>.</p>
+<p class="lead">Application built with <a href="http://leafo.net/lapis/">Lapis</a>, <a href="http://brunch.io">Brunch</a> and <a href="http://getbootstrap.com/">Bootstrap</a> running with <a href="https://www.docker.com/">Docker</a>.</p>
