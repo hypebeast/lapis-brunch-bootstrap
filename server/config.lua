@@ -6,5 +6,6 @@ config("development", {
 })
 
 config("production", {
-  port = 8080
+  port = 8080,
+  code_cache = "on"
 })

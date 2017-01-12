@@ -8,14 +8,14 @@
     "url": ""
   },
   "scripts": {
-    "start": "brunch watch --server",
+    "start": "brunch watch",
     "build": "brunch build --production"
   },
   "dependencies": {},
   "devDependencies": {
     "auto-reload-brunch": "^2.0.0",
     "bootstrap": "^3.3.7",
-    "brunch": "^2.0.0",
+    "brunch": "^2.9.1",
     "clean-css-brunch": "^2.0.0",
     "css-brunch": "^2.0.0",
     "javascript-brunch": "^2.0.0",
