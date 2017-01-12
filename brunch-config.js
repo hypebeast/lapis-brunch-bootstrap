@@ -25,7 +25,8 @@ module.exports = {
       },
       styles: {
         bootstrap: ['dist/css/bootstrap.css']
-      }
+      },
+      cssmin: {}
     }
   }
 };
