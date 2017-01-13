@@ -5,10 +5,10 @@ Application built with [Lapis](http://leafo.net/lapis/), [Brunch](http://brunch.
 
 ## Features
 
-  * [Lapis](http://leafo.net/lapis/): Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty.
-  * [Brunch](http://brunch.io) is used for building the frontend code. Supports for Javascript modules and CSS. In production mode all assets are minified.
-  * [Bootstrap](http://getbootstrap.com/) as frontend framework.
-  * _Docker_ and _docker-compose_ for running the application in development and production environments.
+  * [Lapis](http://leafo.net/lapis) is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty.
+  * [Brunch](http://brunch.io) for building frontend code. Support for Javascript modules and CSS. In production mode all assets are minified.
+  * [Bootstrap](http://getbootstrap.com/) v3.3.7.
+  * [Docker](https://www.docker.com/) support using [docker-compose](https://docs.docker.com/compose/) for development and production.
 
 
 ## Getting started
